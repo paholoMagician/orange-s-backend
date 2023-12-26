@@ -7,16 +7,16 @@ namespace orangebackend6.Models
 {
     public partial class Intituto
     {
-        public int Idintituto { get; set; }
+        public int Idintituto           { get; set; }
         public string NombreInstitucion { get; set; }
-        public string Descripcion { get; set; }
-        public string Ruc { get; set; }
-        public string Encargado { get; set; }
-        public string NumeroTelefono { get; set; }
-        public string Celular { get; set; }
-        public int? Estado { get; set; }
-        public DateTime? FechaCrea { get; set; }
-        public string Logtipourl { get; set; }
-        public string Usercrea { get; set; }
+        public string Descripcion       { get; set; }
+        public string Ruc               { get; set; }
+        public string Encargado         { get; set; }
+        public string NumeroTelefono    { get; set; }
+        public string Celular           { get; set; }
+        public int? Estado              { get; set; }
+        public DateTime? FechaCrea      { get; set; }
+        public string Logtipourl        { get; set; }
+        public string Usercrea          { get; set; }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5hbCGjNVSBo/MLRqxlG2KG8/tZg3cy1zmlSwTB0JLbA=",
+  "Hash": "hBG5MxDQtOfB2PdFtEKbBaIWHa0csNIScqTVDUOhcCw=",
   "Source": "orangebackend6",
   "BasePath": "_content/orangebackend6",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "orangebackend6\\wwwroot",
       "Source": "orangebackend6",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\instituto\\363441632_669891338525301_8180914427369873762_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\instituto\\172168125-icono-de-pago-de-dinero.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
+      "BasePath": "_content/orangebackend6",
+      "RelativePath": "instituto/172168125-icono-de-pago-de-dinero.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\instituto\\172168125-icono-de-pago-de-dinero.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\instituto\\363441632_669891338525301_8180914427369873762_n.jpg",
+      "SourceId": "orangebackend6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "instituto/363441632_669891338525301_8180914427369873762_n.jpg",
       "AssetKind": "All",
@@ -34,10 +51,27 @@
       "OriginalItemSpec": "wwwroot\\instituto\\363441632_669891338525301_8180914427369873762_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\instituto\\banco-de-guayaquil-logo-65A2151D20-seeklogo.com.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\instituto\\399543778_669908795325930_3248416833450251508_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
+      "BasePath": "_content/orangebackend6",
+      "RelativePath": "instituto/399543778_669908795325930_3248416833450251508_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\instituto\\399543778_669908795325930_3248416833450251508_n.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\instituto\\banco-de-guayaquil-logo-65A2151D20-seeklogo.com.png",
+      "SourceId": "orangebackend6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "instituto/banco-de-guayaquil-logo-65A2151D20-seeklogo.com.png",
       "AssetKind": "All",
@@ -51,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\instituto\\banco-de-guayaquil-logo-65A2151D20-seeklogo.com.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\instituto\\WAwBMly1_400x400.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\instituto\\WAwBMly1_400x400.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "instituto/WAwBMly1_400x400.jpg",
       "AssetKind": "All",
@@ -68,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\instituto\\WAwBMly1_400x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\02374a9d-3b12-4568-9a53-6d520bdc83ff.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\02374a9d-3b12-4568-9a53-6d520bdc83ff.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/02374a9d-3b12-4568-9a53-6d520bdc83ff.jpg",
       "AssetKind": "All",
@@ -85,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\02374a9d-3b12-4568-9a53-6d520bdc83ff.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\1_1.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\1_1.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/1_1.png",
       "AssetKind": "All",
@@ -102,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\1_1.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\17010.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\17010.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/17010.jpg",
       "AssetKind": "All",
@@ -119,10 +153,27 @@
       "OriginalItemSpec": "wwwroot\\perfil\\17010.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\355863557_742334221023842_5097923189233445866_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\212058585-una-mujer-con-un-tocado-futurista-y-ojos-brillantes-imagen-generativa-de-ai.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
+      "BasePath": "_content/orangebackend6",
+      "RelativePath": "perfil/212058585-una-mujer-con-un-tocado-futurista-y-ojos-brillantes-imagen-generativa-de-ai.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\perfil\\212058585-una-mujer-con-un-tocado-futurista-y-ojos-brillantes-imagen-generativa-de-ai.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\355863557_742334221023842_5097923189233445866_n.jpg",
+      "SourceId": "orangebackend6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/355863557_742334221023842_5097923189233445866_n.jpg",
       "AssetKind": "All",
@@ -136,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\355863557_742334221023842_5097923189233445866_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\362958642_833577214802177_2306134927299248011_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\362958642_833577214802177_2306134927299248011_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/362958642_833577214802177_2306134927299248011_n.jpg",
       "AssetKind": "All",
@@ -153,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\362958642_833577214802177_2306134927299248011_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\363433892_1054227625775325_5914623528485206248_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\363433892_1054227625775325_5914623528485206248_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/363433892_1054227625775325_5914623528485206248_n.jpg",
       "AssetKind": "All",
@@ -170,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\363433892_1054227625775325_5914623528485206248_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\363441632_669891338525301_8180914427369873762_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\363441632_669891338525301_8180914427369873762_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/363441632_669891338525301_8180914427369873762_n.jpg",
       "AssetKind": "All",
@@ -187,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\363441632_669891338525301_8180914427369873762_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\370481449_6723131167735170_3676688108131740162_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\370481449_6723131167735170_3676688108131740162_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/370481449_6723131167735170_3676688108131740162_n.jpg",
       "AssetKind": "All",
@@ -204,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\370481449_6723131167735170_3676688108131740162_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\375257518_682591590569235_4081701257424370010_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\375257518_682591590569235_4081701257424370010_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/375257518_682591590569235_4081701257424370010_n.jpg",
       "AssetKind": "All",
@@ -221,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\375257518_682591590569235_4081701257424370010_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\38599188.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\38599188.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/38599188.jpg",
       "AssetKind": "All",
@@ -238,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\38599188.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\4Y3z4QEF_400x400.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\4Y3z4QEF_400x400.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/4Y3z4QEF_400x400.jpg",
       "AssetKind": "All",
@@ -255,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\4Y3z4QEF_400x400.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\741520.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\741520.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/741520.jpg",
       "AssetKind": "All",
@@ -272,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\741520.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\almacenes-tia-logo-09EA9128AA-seeklogo.com.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\almacenes-tia-logo-09EA9128AA-seeklogo.com.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/almacenes-tia-logo-09EA9128AA-seeklogo.com.png",
       "AssetKind": "All",
@@ -289,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\almacenes-tia-logo-09EA9128AA-seeklogo.com.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\download_(1).jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\download_(1).jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/download_(1).jpg",
       "AssetKind": "All",
@@ -306,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\download_(1).jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\hombre-estudiante-universitario.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\hombre-estudiante-universitario.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/hombre-estudiante-universitario.jpg",
       "AssetKind": "All",
@@ -323,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\hombre-estudiante-universitario.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\unnamed.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\unnamed.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/unnamed.jpg",
       "AssetKind": "All",
@@ -340,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\unnamed.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\perfil\\Ximena_Ramos-300x240.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\perfil\\Ximena_Ramos-300x240.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "perfil/Ximena_Ramos-300x240.jpg",
       "AssetKind": "All",
@@ -357,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\perfil\\Ximena_Ramos-300x240.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\366054901_834840891690409_6730595148461468584_n.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\366054901_834840891690409_6730595148461468584_n.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/366054901_834840891690409_6730595148461468584_n.jpg",
       "AssetKind": "All",
@@ -374,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\366054901_834840891690409_6730595148461468584_n.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\741520.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\741520.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/741520.jpg",
       "AssetKind": "All",
@@ -391,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\741520.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\agencia_bancos.xls",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\agencia_bancos.xls",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/agencia_bancos.xls",
       "AssetKind": "All",
@@ -408,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\agencia_bancos.xls"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\bill-counter-cash-machine-money-banking-filled-outline-icon-vector.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\bill-counter-cash-machine-money-banking-filled-outline-icon-vector.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/bill-counter-cash-machine-money-banking-filled-outline-icon-vector.jpg",
       "AssetKind": "All",
@@ -425,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\bill-counter-cash-machine-money-banking-filled-outline-icon-vector.jpg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\bodega.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\bodega.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/bodega.png",
       "AssetKind": "All",
@@ -442,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\bodega.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\CRONOGRAMA_E-F-M-A.txt",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\CRONOGRAMA_E-F-M-A.txt",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/CRONOGRAMA_E-F-M-A.txt",
       "AssetKind": "All",
@@ -459,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\CRONOGRAMA_E-F-M-A.txt"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\image_2023-09-05_133555440.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\image_2023-09-05_133555440.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/image_2023-09-05_133555440.png",
       "AssetKind": "All",
@@ -476,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\image_2023-09-05_133555440.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\KD-10.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\KD-10.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/KD-10.png",
       "AssetKind": "All",
@@ -493,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\KD-10.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\logo___CMS_c_-_Copy.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\logo___CMS_c_-_Copy.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/logo___CMS_c_-_Copy.png",
       "AssetKind": "All",
@@ -510,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\logo___CMS_c_-_Copy.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-08-04_154516.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-08-04_154516.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-08-04_154516.png",
       "AssetKind": "All",
@@ -527,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-08-04_154516.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-26_141648.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-26_141648.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-26_141648.png",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-26_141648.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_111408.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_111408.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-27_111408.png",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-27_111408.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_111957.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_111957.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-27_111957.png",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-27_111957.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_170625.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_170625.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-27_170625.png",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-27_170625.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_170847.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_170847.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-27_170847.png",
       "AssetKind": "All",
@@ -612,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-27_170847.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_174241.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_174241.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-27_174241.png",
       "AssetKind": "All",
@@ -629,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-27_174241.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_174950.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-27_174950.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-27_174950.png",
       "AssetKind": "All",
@@ -646,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-27_174950.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-28_134621.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-09-28_134621.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-09-28_134621.png",
       "AssetKind": "All",
@@ -663,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-09-28_134621.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-10-04_143812.png",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Screenshot_2023-10-04_143812.png",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Screenshot_2023-10-04_143812.png",
       "AssetKind": "All",
@@ -680,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Screenshot_2023-10-04_143812.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\Transacciones_(16).xlsx",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\Transacciones_(16).xlsx",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/Transacciones_(16).xlsx",
       "AssetKind": "All",
@@ -697,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\Transacciones_(16).xlsx"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\WhatsApp_Image_2023-05-16_at_21.32.44.jpeg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\WhatsApp_Image_2023-05-16_at_21.32.44.jpeg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/WhatsApp_Image_2023-05-16_at_21.32.44.jpeg",
       "AssetKind": "All",
@@ -714,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\storage\\WhatsApp_Image_2023-05-16_at_21.32.44.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\storage\\WhatsApp_Image_2023-10-04_at_13.28.18_b2dbc7a7.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\storage\\WhatsApp_Image_2023-10-04_at_13.28.18_b2dbc7a7.jpg",
       "SourceId": "orangebackend6",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USUARIO\\source\\repos\\orangetaskapp\\orangebackend6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Documents\\orange-s-backend\\orangebackend6\\wwwroot\\",
       "BasePath": "_content/orangebackend6",
       "RelativePath": "storage/WhatsApp_Image_2023-10-04_at_13.28.18_b2dbc7a7.jpg",
       "AssetKind": "All",

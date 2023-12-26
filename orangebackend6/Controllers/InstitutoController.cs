@@ -40,24 +40,21 @@ namespace orangebackend6.Controllers
             {
                 return BadRequest("ERROR");
             }
+
         }
 
         [HttpPut]
         [Route("ActualizarInstituto/{id}")]
-        public async Task<IActionResult> ActualizarInstituto([FromRoute] int id, [FromBody] Intituto model)
-        {
-
-            if (id != model.Idintituto)
-            {
+        public async Task<IActionResult> ActualizarInstituto([FromRoute] int id, [FromBody] Intituto model) {
+            if (id != model.Idintituto) {
                 return BadRequest("No existe el equipo");
             }
+
             _context.Entry(model).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return Ok(model);
 
         }
-
-
 
         [HttpGet("ActualizarImgInstituto/{url}/{id}")]
         public async Task<IActionResult> ActualizarImgInstituto([FromRoute] string url, [FromRoute] int id )
